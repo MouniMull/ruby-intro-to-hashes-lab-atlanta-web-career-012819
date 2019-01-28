@@ -1,6 +1,6 @@
 def new_hash
   
- headphones = {"number 1"
+ headphones = {:number_1 => Bose, :number_2 => Beats, 
   
 
 end
