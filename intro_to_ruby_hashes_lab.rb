@@ -1,6 +1,6 @@
 def new_hash
   
-  
+ headphones = {"number 1"
   
 
 end
